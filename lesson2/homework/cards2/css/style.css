@@ -1,0 +1,70 @@
+
+.featserv{
+    display: flex;
+    justify-content: center;
+    height: 10px;
+    width: auto;
+    margin-bottom: 20px;
+    font-family: "Microsoft Sans Serif";
+}
+.mainblock{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.fa-solid{
+    margin-bottom: 5px;
+    color: #999999;
+}
+.service1, .service2, .service3, .service4 {
+
+    margin: 10px;
+    height: 170px;
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    box-sizing: border-box;
+    box-shadow: 1px 0 3px silver;
+
+    /*border: 1px solid darkgray;*/
+
+}
+.title{
+    color: #c17f4c;
+    font-size: 10px;
+    height: 20px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Calibri";
+}
+.txt{
+    font-size: 5px;
+    height: 50px;
+    width: 85px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: Arial;
+    color: silver;
+    margin: 5px 0 10px 0;
+    line-height: 200%;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    width: 60px   ;
+    font-size: 7px;
+    background: #55c3b6;
+    color: white;
+    border-radius: 1px;
+
+}

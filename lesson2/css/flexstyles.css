@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+
+}
+
+.green-box{
+    height: 600px;
+    background: #35cd9f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-quote-right {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    color: #35cd9f;
+}
+.card{
+    width: 350px;
+    height: 450px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background: #1b212b;
+}
+
+.text{
+    color: whitesmoke;
+}

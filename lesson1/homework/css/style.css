@@ -1,0 +1,31 @@
+h1{
+    color: #1a0e0e;
+    background-color: #b75812;
+    margin: 25px 550px 25px 550px;
+}
+h2{
+    color: #1a0e0e;
+    background-color: #b75812;
+    margin: 25px 550px 25px 550px;
+}
+body{
+    background: #fec356;
+    text-align: center;
+}
+
+p{
+    margin: 50px;
+    color: #e7d216;
+    background-color: #b75812;}
+
+ul{
+    margin: 0 500px 50px 500px;
+    color: #e7d216;
+    background-color: #b75812;
+}
+
+a{
+    color: #e7d216;
+    background-color: #b75812;
+    margin: 0 0 100px 0;
+}

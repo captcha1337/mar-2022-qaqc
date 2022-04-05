@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="" />
+    <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/Bart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/Homer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/Lisa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/img/Bart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/img/Homer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/img/Lisa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/img/The_Simpsons_Simpsons_FamilyPicture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/css/flexstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/Widgets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/Widgets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/cards1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/cards1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/cards2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/homework/cards2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="27OTr5nOafCc9gMJD3k874kWsr7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +57,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649190328087</updated>
+      <workItem from="1649190329709" duration="22000" />
+      <workItem from="1649190485762" duration="121000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>

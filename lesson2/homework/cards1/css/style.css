@@ -1,0 +1,52 @@
+.mainblock{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+}
+.respdes, .uid, .webdev {
+    margin: 10px;
+    height: 170px;
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    box-sizing: border-box;
+    border: 1px solid darkgray;
+
+}
+.title{
+    font-size: 10px;
+    height: 20px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Calibri";
+}
+.txt{
+    font-size: 7px;
+    height: 50px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: Arial;
+    color: silver;
+    margin: 5px 0 10px 0;
+    line-height: 200%;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    width: 80px   ;
+    font-size: 10px;
+    : #1b212b;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
