@@ -1,0 +1,33 @@
+.bigbox {
+    height: 200px;
+    width: 150px;
+    background: silver;
+    margin-top: 100px;
+    position: relative;
+
+}
+
+.round  {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: -20px;
+    left: calc(75px - 20px)
+
+  }
+.box1 {
+    height: 200px;
+    width: 200px;
+    background-color: mediumpurple;
+    position: relative;
+    z-index: 1;
+    top: 10px;
+}
+.box2 {
+    height: 300px;
+    width: 300px;
+    background-color: coral;
+    position: relative;
+}

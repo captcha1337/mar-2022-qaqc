@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.menu   {
+    width: 100%;
+    background: silver;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    margin: 0;
+    height: 40px;
+    align-items: center;
+    position: fixed;
+}
+ol{
+    margin: 0;
+}
+.xxx{
+    height: 40px;
+}

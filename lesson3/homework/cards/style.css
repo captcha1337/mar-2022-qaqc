@@ -1,0 +1,63 @@
+.main{
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.card1, .card2, .card3{
+    height: 250px;
+    width: 220px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 15px;
+}
+
+.round1, .round2, .round3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    font-size: 23px;
+    border-radius: 50%;
+    border: 1px solid dimgrey;
+    position: absolute;
+    left: calc(110px - 30px);
+    top: -35px;
+    background: white;
+    color: #ec9114;
+
+}
+.respdes1, .respdes2, .respdes3{
+    height: 40px;
+    width: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 5px 0;
+}
+.txt1, .txt2, .txt3 {
+    height: 80px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+    color: #8c8c8c;
+    margin: 5px 0 5px 0;
+}
+.button1, .button2, .button3{
+    height: 30px;
+    width: 150px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0 5px 0;
+}
