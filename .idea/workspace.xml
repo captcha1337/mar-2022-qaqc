@@ -45,12 +45,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework",
     "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/homework" />
+      <recent name="$PROJECT_DIR$/lesson4/demo3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4" />
+      <recent name="$PROJECT_DIR$/lesson4/preview/demo1" />
       <recent name="$PROJECT_DIR$/lesson3/cards" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -65,7 +73,9 @@
       <updated>1649190328087</updated>
       <workItem from="1649190329709" duration="22000" />
       <workItem from="1649190485762" duration="6579000" />
-      <workItem from="1649870778625" duration="11284000" />
+      <workItem from="1649870778625" duration="11508000" />
+      <workItem from="1650122956937" duration="10007000" />
+      <workItem from="1650139447652" duration="5677000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1649190621708</created>
@@ -95,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649880019015</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="...">
+      <created>1649882088131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649882088131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

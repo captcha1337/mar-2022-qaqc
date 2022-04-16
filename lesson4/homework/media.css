@@ -1,0 +1,20 @@
+@media screen and (max-width: 1366px){
+    .container{
+        height: 812px; /* IphoneX dimension*/
+    }
+    .a{
+        height: 20%;
+    }
+    .twoboxes{
+        flex-direction: column;
+        height: 80%;
+    }
+    .bcdefg{
+        width: 100%;
+        height: 50%;
+    }
+    .h{
+        width: 100%;
+        height: 50%;
+    }
+}
