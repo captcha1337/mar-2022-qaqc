@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/additional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/error/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/error/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/preview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/preview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +36,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/main.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,29 +55,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson4/homework" />
       <recent name="$PROJECT_DIR$/lesson4/demo3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/demo1" />
+      <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;" />
       <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1" />
       <recent name="$PROJECT_DIR$/JS" />
       <recent name="$PROJECT_DIR$/html-css" />
-      <recent name="$PROJECT_DIR$/lesson4" />
-      <recent name="$PROJECT_DIR$/lesson4/preview/demo1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +98,8 @@
       <workItem from="1650304282036" duration="8000" />
       <workItem from="1650485399383" duration="814000" />
       <workItem from="1650560721651" duration="436000" />
-      <workItem from="1650811096906" duration="14871000" />
+      <workItem from="1650811096906" duration="15183000" />
+      <workItem from="1650906148830" duration="8670000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1649190621708</created>
@@ -158,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650222539576</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="...">
+      <created>1650835343454</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650835343454</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
