@@ -6,19 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/additional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/error/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/error/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/preview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/preview/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +45,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson4/homework" />
@@ -99,7 +89,8 @@
       <workItem from="1650485399383" duration="814000" />
       <workItem from="1650560721651" duration="436000" />
       <workItem from="1650811096906" duration="15183000" />
-      <workItem from="1650906148830" duration="8670000" />
+      <workItem from="1650906148830" duration="9569000" />
+      <workItem from="1650998457258" duration="8620000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1649190621708</created>
@@ -178,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650835343454</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="...">
+      <created>1650919787981</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650919787981</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

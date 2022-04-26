@@ -40,7 +40,7 @@ console.log(a1);
 
 // 5 == 6 -> false
 
-let a2 = 5 == 6;
+let a2 = 5 === 6;
 console.log(a2)
 
 
@@ -58,7 +58,7 @@ console.log(a4);
 
 // 10 ? 10 -> true
 
-let a5 = 10 == 10;
+let a5 = 10 === 10;
 console.log(a5);
 
 // 10 ? 10 -> true
