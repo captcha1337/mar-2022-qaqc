@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5/homework/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/homework/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lesson4/homework" />
@@ -90,7 +88,11 @@
       <workItem from="1650560721651" duration="436000" />
       <workItem from="1650811096906" duration="15183000" />
       <workItem from="1650906148830" duration="9569000" />
-      <workItem from="1650998457258" duration="8620000" />
+      <workItem from="1650998457258" duration="8733000" />
+      <workItem from="1651079333492" duration="614000" />
+      <workItem from="1651432123060" duration="3388000" />
+      <workItem from="1651515030438" duration="7593000" />
+      <workItem from="1651597686708" duration="5610000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1649190621708</created>
@@ -176,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650919787981</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="...">
+      <created>1651007106416</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1651007106416</updated>
+    </task>
+    <task id="LOCAL-00014" summary="...">
+      <created>1651007113696</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651007113696</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

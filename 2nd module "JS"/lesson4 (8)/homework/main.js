@@ -72,27 +72,100 @@
 
 ///////////////////////////////////////////////////////
 
-// function unordlistCreator(array) {
-//     document.write(`<ul> <li>${array}</li> <li>${array}</li>  <li>${array}</li></ul>`);
+// function ulCreator(array) {
+//     document.write(`<ul> <li>${array}</li> <li>${array}</li> <li>${array}</li></ul>`);
 // }
 //
 //
-// unordlistCreator("LOL KEK CHEBUREK");
+// ulCreator("LOL KEK CHEBUREK");
 
 //////////////////////////////////////////////////////////
 
 
-function unordlistCreator(array) {
-    document.write(`<ul><li>${array}</li></ul>`);
-}
+// function liCreator(text, liQuantity) {
+//     document.write(`<ul>`);
+//     for (let i = 0; i < liQuantity; i++) {
+//         document.write(`<li>${text}</li>`);
+//
+//     }
+//     document.write(`</ul>`);
+// }
+//
+// liCreator('text',4);
 
 
-let i = unordlistCreator("LOL KEK CHEBUREK");
+//////////////////////////////////////////////////////////////
+
+// let array = [
+//     1, 2, 3, 'string1', 'string2', 'string3', true, false
+// ];
+//
+//
+// function ul (arr) {
+//     document.write(`<ul>`);
+//     for (let i = 0; i < arr.length; i++) {
+//         document.write(`<li>${array[i]}</li>`);
+//
+//     }
+//     document.write(`</ul>`);
+// }
+//
+// ul(array);
 
 
-for (i = 0; i < array; i++) {
-    const arrayElement = array;
-
-}
+////////////////////////////////////////////////////////////////
 
 
+// let users = [
+//     {id:1, name:'ihor', age:22},
+//     {id:2, name:'petro', age:33},
+//     {id:3, name:'ivan', age:44}
+// ];
+//
+// function userss (users) {
+//     for (const user of users) {
+//         document.write(`<div>${user.id} ${user.name} ${user.age}</div>`);
+//     }
+// }
+//
+// userss(users);
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// let arr = [ 3, 8, 9, 14, 16 ];
+//
+//
+// function min (array) {
+//     let min = array[0];
+//     for (const minItem of array) {
+//         if (minItem < min) {
+//             min = minItem;
+//         }
+//
+//     }
+//     return min;
+// }
+//
+//
+// console.log(min(arr));
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+// let arr = [ 3, 8, 9, 14, 16 ];
+//
+// function sum (array) {
+//     let sum = 0;
+//     for (const arrayItem of array) {
+//         sum += arrayItem;
+//     }
+//     return sum;
+// }
+//
+// console.log(sum(arr));
+
+
+
+/////////////////////////////////////////////////
