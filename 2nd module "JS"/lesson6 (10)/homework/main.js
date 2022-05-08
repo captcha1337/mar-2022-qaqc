@@ -173,9 +173,6 @@
 // value.cardSuit === 'clubs' || value.value === 'Joker'));
 
 
-//
-// {
-
 
 
 
