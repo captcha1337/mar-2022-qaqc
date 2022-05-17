@@ -1,4 +1,4 @@
-/ // // 43 functions at object + this
+// / // // 43 functions at object + this
 // // // 58 Rest Spread
 // // 1: 22 classes
 // // 1^42 Closures
