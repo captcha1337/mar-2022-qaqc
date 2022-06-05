@@ -5,8 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acbab65e-cd81-4c9a-8c63-63b2820657c1" name="Changes" comment="...">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/Bart.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/Bart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/Homer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/Homer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/Lisa.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/Lisa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/img/Bart.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/img/Bart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/img/Homer.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/img/Homer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/img/Lisa.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/img/Lisa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/img/The_Simpsons_Simpsons_FamilyPicture.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/img/The_Simpsons_Simpsons_FamilyPicture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/img/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/img/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/css/flexstyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/css/flexstyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/Widgets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/Widgets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/Widgets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/Widgets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards2/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/homework/cards3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/homework/cards3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/cards/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/cards/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/cards/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/header/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/header/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/header/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/header/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/homework/blocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/homework/blocks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/homework/blocks/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/homework/blocks/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/homework/cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/homework/cards/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson3/homework/cards/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson3/homework/cards/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo1/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo1/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo2/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo2/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo2/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo2/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo3/adaptivebase.png" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo3/adaptivebase.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo3/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo3/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo3/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/demo3/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/demo3/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/homework/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/homework/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/homework/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/homework/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/homework/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/homework/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/preview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/preview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1st module &quot;html-css&quot;/lesson4/preview/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-css/lesson4/preview/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/additional/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/additional/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/error/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/error/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/error/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/preview/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson1 (5)/preview/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson2 (6)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson2 (6)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson2 (6)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson2 (6)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson2 (6)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson3 (7)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson3 (7)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson3 (7)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson3 (7)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson4 (8)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson4 (8)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson4 (8)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson4 (8)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson4 (8)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5 (9)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson5 (9)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5 (9)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson5 (9)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5 (9)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson5 (9)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson5 (9)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson5 (9)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/demo2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/demo2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/demo2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/demo2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6 (10)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson6 (10)/homework/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/demo1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson7 (11)/demo1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/demo1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson7 (11)/demo1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/homework/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson7 (11)/homework/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson7 (11)/homework/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/lesson7 (11)/homework/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +111,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson1 (5)/demo1/main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JS/lesson1 (5)/demo1/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JS/lesson1 (5)/demo1/main.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,29 +128,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pavlo/IdeaProjects/mar-2022-qaqc/lesson4/homework&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/bigbird/IdeaProjects/mar-2022-qaqc/JS/DOM pt1/homework",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JS/DOM pt1/homework" />
       <recent name="$PROJECT_DIR$/lesson4/homework" />
       <recent name="$PROJECT_DIR$/lesson4/demo3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JS/DOM pt1/homework/template1" />
+      <recent name="$PROJECT_DIR$/JS/DOM pt1/demo1" />
       <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson3 (7)/demo1" />
       <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;" />
       <recent name="$PROJECT_DIR$/2nd module &quot;JS&quot;/lesson6/demo1" />
-      <recent name="$PROJECT_DIR$/JS" />
-      <recent name="$PROJECT_DIR$/html-css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +183,9 @@
       <workItem from="1652018463112" duration="14092000" />
       <workItem from="1652213774969" duration="3956000" />
       <workItem from="1652727290196" duration="913000" />
-      <workItem from="1652811504245" duration="7942000" />
+      <workItem from="1652811504245" duration="8095000" />
+      <workItem from="1653921540093" duration="2321000" />
+      <workItem from="1654375837249" duration="11469000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1649190621708</created>
@@ -225,7 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652217723007</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="...">
+      <created>1652819547811</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652819547811</updated>
+    </task>
+    <task id="LOCAL-00020" summary="...">
+      <created>1652819594265</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652819594265</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
